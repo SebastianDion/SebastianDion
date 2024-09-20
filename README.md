@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dion</h1>
-<h3 align="center">Casual Sunday Driver</h3>
+<h3 align="center">Casual</h3>
 
 - 🔭 I’m currently working on **my school projects/homework**
 
-- 🌱 I’m currently learning **coding in general(mainly C)**
+- 🌱 I’m currently learning **coding in general**
 
 - 👯 I’m looking to collaborate on **anything I can learn**
 
