@@ -11,8 +11,8 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="middle">Languages and Tools</h3>
+<p align="middle">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
