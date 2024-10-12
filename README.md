@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Seb 👋</h1>
 <h3 align="center">A Casual Developer</h3>
 
-<p align="center">
+<p align="left">
   🔭 I’m currently working on <strong>my school projects and homework</strong> <br/>
   🌱 I’m currently learning <strong>coding in general</strong> <br/>
   👯 I’m looking to collaborate on <strong>anything I can learn</strong> <br/>
@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -63,7 +63,7 @@
     <img src="https://avatars.githubusercontent.com/u/65011275?s=200&v=4" alt="obsidian" width="40" height="40"/>
   </a>
   <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notepadplusplus/notepadplusplus-original.svg" alt="notepad++" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png" alt="notepad++" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
@@ -72,10 +72,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webflow/webflow-original.svg" alt="webflow" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<!---
-SebastianDion/SebastianDion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
