@@ -5,7 +5,9 @@
   🔭 I’m currently working on <strong>my school projects and homework</strong> <br/>
   🌱 I’m currently learning <strong>coding in general</strong> <br/>
   👯 I’m looking to collaborate on <strong>anything I can learn</strong> <br/>
-  📫 How to reach me: <a href="mailto:sebastian.dion02@gmail.com">sebastian.dion02@gmail.com</a>
+  📫 How to reach me: <a href="mailto:sebastian.dion02@gmail.com">sebastian.dion02@gmail.com</a> <br/>
+  🌐 Vist <a href="https://web-portofolio-dion.vercel.app/" target="_blank"> my website</a> <br/>
+  📖 Read  <a href="https://soft-chestnut-66c.notion.site/Seb-s-Blog-1194f82ca71e8011b36ce9efea061681" target="_blank">my blogsite</a>
 </p>
 
 <h2 align="center">Languages & Frameworks</h2>
