@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/1200x/d3/ad/32/d3ad326d1da50b13c5ee9f7f5dec2f4e.jpg" width="350" alt="Seb banner"/>
 </p>
-<h3 align="center">Nerdy Dev</h3>
+<h3 align="center">Nerdy Junior Dev</h3>
 
 <p align="left">
   🔭 Currently working on <strong>final uni project & internship at Adira</strong> <br/>
