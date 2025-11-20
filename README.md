@@ -8,7 +8,8 @@
 <p align="left">
   🔭 Currently working on <strong>final uni project & internship at Adira</strong> <br/>
   🌱 Actively learning <strong>JavaScript, TypeScript, React Native, and a bit of Go</strong> <br/>
-  👯 Open to collaborate on <strong>anything I can grow from</strong> <br/>
+  💻 Grinding LeetCode rn
+  🎉 Open to collaborate on <strong>anything I can grow from</strong> <br/>
   🌐 Visit <a href="https://web-portofolio-dion.vercel.app/" target="_blank">my OUTDATED portfolio</a> <br/>
 </p>
 
