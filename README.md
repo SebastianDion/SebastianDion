@@ -49,6 +49,8 @@
 ---
 
 <p align="center">
+  <h2 align="center">Leetcode Progress</h2>
+  <p align="center">noobie stats</p>
   <img src="https://leetcode.card.workers.dev/SebastianDion?theme=dark&font=JetBrains%20Mono&extension=null" />
 </p>
 
@@ -56,5 +58,5 @@
 
 
 <p align="center">
-  <strong>Maybe being kind is the real Punk Rock </strong>
+  <strong>~ Maybe being kind is the real Punk Rock ~</strong>
 </p>
