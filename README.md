@@ -1,3 +1,4 @@
+<!-- <img src="https://i.pinimg.com/736x/19/50/a0/1950a062d888e886b2f945b1a8f9debb.jpg" width="100%" height="90%" /> -->
 <h1 align="center">Hi, I'm Seb 👋</h1>
 
 <p align="center">
@@ -10,7 +11,7 @@
   🌱 Actively learning <strong>JavaScript, TypeScript, React Native, and a bit of Go</strong> <br/>
   💻 Grinding LeetCode rn
   🎉 Open to collaborate on <strong>anything I can grow from</strong> <br/>
-  🌐 Visit <a href="https://web-portofolio-dion.vercel.app/" target="_blank">my OUTDATED portfolio</a> <br/>
+  🌐 Visit my <a href="https://web-portofolio-dion.vercel.app/" target="_blank">OUTDATED portfolio</a> <br/>
 </p>
 
 ---
