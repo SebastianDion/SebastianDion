@@ -8,7 +8,7 @@
 
 <p align="left">
   🔭 Currently working on <strong>final uni project & internship at Adira</strong> <br/>
-  🌱 Actively learning <strong>JavaScript, TypeScript, React Native, and a bit of Go</strong> <br/>
+  🌱 Actively learning <strong>JavaScript, TypeScript, React Native and a bit of Go</strong> <br/>
   💻 Grinding LeetCode rn
   🎉 Open to collaborate on <strong>anything I can grow from</strong> <br/>
   🌐 Visit my <a href="https://web-portofolio-dion.vercel.app/" target="_blank">OUTDATED portfolio</a> <br/>
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <em>These are the tools I’m actually confident using right now: JavaScript, TypeScript, React Native, and a bit of Go for backend fundamentals.</em>
+  <em>These are the tools I’m actually confident using right now: JavaScript, TypeScript, React Native, PostgreSQL for database management, Docker  and a bit of Go for backend fundamentals.</em>
 </p>
 
 ---
