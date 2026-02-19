@@ -11,7 +11,7 @@
   🌱 Actively learning <strong>JavaScript, TypeScript, React Native and a bit of Go</strong> <br/>
   💻 Grinding LeetCode rn
   🎉 Open to collaborate on <strong>anything I can grow from</strong> <br/>
-  🌐 Visit my <a href="https://web-portofolio-dion.vercel.app/" target="_blank">OUTDATED portfolio</a> <br/>
+  🌐 Visit my <a href="https://web-portofolio-dion.vercel.app/" target="_blank">portfolio</a> <br/>
 </p>
 
 ---
