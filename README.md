@@ -7,7 +7,7 @@
 <h3 align="center">Nerdy Junior Dev</h3>
 
 <p align="left">
-  🔭 Currently working on <strong>final getting a J*b</strong> <br/>
+  🔭 Currently working on <strong> getting a J*b</strong> <br/>
   🌱 Actively learning <strong>JavaScript, TypeScript, React Native and a bit of Go</strong> <br/>
   💻 Grinding LeetCode rn
   🎉 Open to collaborate on <strong>anything I can grow from</strong> <br/>
