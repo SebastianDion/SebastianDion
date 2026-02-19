@@ -7,11 +7,12 @@
 <h3 align="center">Nerdy Junior Dev</h3>
 
 <p align="left">
-  🔭 Currently working on <strong>final uni project & internship at Adira</strong> <br/>
+  🔭 Currently working on <strong>final getting a J*b</strong> <br/>
   🌱 Actively learning <strong>JavaScript, TypeScript, React Native and a bit of Go</strong> <br/>
   💻 Grinding LeetCode rn
   🎉 Open to collaborate on <strong>anything I can grow from</strong> <br/>
   🌐 Visit my <a href="https://web-portofolio-dion.vercel.app/" target="_blank">portfolio</a> <br/>
+  📖 Ex Intern Software Engineer at Adira Finance for 1 year (read my <a href="https://web-portofolio-dion.vercel.app/work"  target="_blank">log</a> for full detail)
 </p>
 
 ---
