@@ -56,6 +56,11 @@
 ---
 
 <p align="center">
+  <p align="center">
+    <a href="https://www.hackerrank.com/profile/sebastian_dion02">
+      <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white"/>
+    </a>
+  </p>
   <h2 align="center">Leetcode Progress</h2>
   <p align="center">noobie stats</p>
   <p align="center">
