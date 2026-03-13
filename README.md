@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <em>These are the tools I’m actually confident using right now: JavaScript, TypeScript, React Native, PostgreSQL for database management, Docker  and a bit of Go for backend fundamentals.</em>
+  <em>These are the tools I’m actually confident using right now: JavaScript, TypeScript, React Native, PostgreSQL for database management, Docker  and a bit of Go for data structure fundamentals.</em>
 </p>
 
 ---
